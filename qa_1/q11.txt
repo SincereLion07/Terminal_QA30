@@ -1,0 +1,2 @@
+$ cd qa_3
+$ mkdir qa_5 qa_6 qa_7
